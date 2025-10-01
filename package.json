@@ -1,0 +1,31 @@
+{
+  "name": "todo-react-js",
+  "version": "1.0.0",
+  "description": "The TODO web app using React JS as Frontend",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-nesamani/todo-react-JS.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Mahendran K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer-nesamani/todo-react-JS/issues"
+  },
+  "homepage": "https://github.com/developer-nesamani/todo-react-JS#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router": "^7.9.3"
+  }
+}
